@@ -4,7 +4,7 @@
 ║                  Resumo Completo do Curso                    ║
 ╚══════════════════════════════════════════════════════════════╝
 
-Autor: [Seu Nome]
+Autor: Matheus Magalhães de Faria
 Conclusão: Maio de 2025
 Certificação: Python Essentials 1 (PE1)
 
